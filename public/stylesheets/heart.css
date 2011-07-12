@@ -1,0 +1,4 @@
+body {font-family:"lucida grande",tahoma,verdana,arial,sans-serif;}
+div#footer {font-size:11px; text-align:left; position:absolute;}
+canvas, section {display: block;}
+#c {position: absolute;}
